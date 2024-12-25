@@ -1,0 +1,10 @@
+build:
+  version: '3.0'
+cards:
+  message: 'Welcome to EazyBank Card related Prod APIs '
+  contactDetails:
+    name: Kamlesh -Product Owner
+    email: kamlesh@eazybank.com
+  onCallSupport:
+  - (555) 555-1234
+  - (555) 523-1345
