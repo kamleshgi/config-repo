@@ -2,7 +2,7 @@ build:
   version: "3.0"       
 
 cards:
-  message: "Welcome to EazyBank Cards related local APIs "
+  message: "Welcome to EazyBank Cards related local APIs with webhook "
   contactDetails:
     name: "Kamlesh - Developer"
     email: "kam@eazybank.com"
